@@ -1,0 +1,8 @@
+$whoami #quien soy
+$hostname #como se llama el servidor
+$pwd #en que carpeta estoy
+$uname -a #que sistema es
+$uptime #hace cuanto esta encendido
+$df -h #cuanto disco tengo?
+$free -h #cuanta memoria RAM
+$nproc #cuantos procesadores 
